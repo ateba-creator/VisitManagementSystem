@@ -2009,20 +2009,8 @@ address {
 .curp {
   cursor: pointer;
 }
-.bg-img-png-home2 {
-  background-attachment: fixed;
-  background-image: url(../images/background/home2-bg2.png);
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  background-size: cover;
-}
-.bg-img-png-home6 {
-  background-attachment: fixed;
-  background-image: url(../images/background/home6-bg1.png);
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  background-size: cover;
-}
+
+
 .wobble {
   animation-duration: 5s;
   animation-iteration-count: infinite;
@@ -5355,10 +5343,7 @@ form.listing_page_v9 {
 .copyright-widget.home4 p {
   color: #626974;
 }
-.footer_one.home2 {
-  background-image: url(../images/background/footer-bg-img-home2.png);
-  background-size: cover;
-}
+
 .footer_one.home6 {
   background-color: #f5f5f5;
 }
@@ -5566,16 +5551,7 @@ form.listing_page_v9 {
   background-color: #f3f5f6;
   padding: 35px 0;
 }
-.inner_page_breadcrumb.style3 {
-  background-image: url(../images/background/inner-pagebg3.jpg);
-  background-repeat: no-repeat;
-  height: 400px;
-}
-.inner_page_breadcrumb.style4 {
-  background-image: url(../images/background/inner-pagebg4.jpg);
-  background-repeat: no-repeat;
-  height: 500px;
-}
+
 .inner_page_breadcrumb.csv2 .breadcrumb_content,
 .inner_page_breadcrumb.csv3 .breadcrumb_content {
   margin-top: 100px;
@@ -6105,20 +6081,7 @@ form.listing_page_v9 {
   line-height: 28px;
   letter-spacing: 0;
 }
-.become_avendor_page_banner {
-  background-image: url(../images/background/logistic-service-concept.png);
-  background-size: cover;
-  background-position: center;
-}
-.vendor_single_page_banner {
-  background-image: url(../images/background/vendor-single-banner.jpg);
-  background-size: cover;
-  background-position: center;
-  height: 400px;
-  border-radius: 6px;
-  overflow: hidden;
-  position: relative;
-}
+
 .vendor_single_page_banner .details .title {
   color: #fff;
   font-family: Jost;
@@ -13007,14 +12970,7 @@ header.header-nav.menu_style_home_one.home5_styles
 .banner_one.megamenu_style .details.style2 {
   position: absolute;
 }
-.banner_one_large {
-  background-image: url(../images/background/banner1.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 100px 0;
-  position: relative;
-}
+
 .banner_one.title_wa .details .title {
   width: auto;
 }
@@ -13124,23 +13080,11 @@ header.header-nav.menu_style_home_one.home5_styles
 .banner_one.home2_home_style .thumb img {
   margin: 0 auto;
 }
-.banner_one.home1_style.home3_large_banner {
-  height: 350px;
-  background-image: url(../images/banner/banner1-home3.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 .banner_one.home1_style.home3_large_banner .details {
   left: 90px;
 }
-.banner_one.home1_style.home3_large_banner.athome7 {
-  background-image: url(../images/banner/large_banner_home7.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-}
+
 .banner_one.home1_style.home3_large_banner.athome7 .details {
   left: 60px;
   top: 20%;
@@ -14201,13 +14145,7 @@ a.shop_btn:before {
   font-style: normal;
   line-height: 28px;
 }
-.online_delivery.home6_style {
-  background-color: rgba(0, 83, 246, 0.02);
-  background-image: url(../images/background/tiny-divider-bg-home6.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
+
 .online_delivery.home6_style .title {
   color: #0053f6;
   font-family: Jost;
