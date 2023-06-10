@@ -1,0 +1,21 @@
+.dashboard_page.sidebar_location_filter .bootstrap-select > .dropdown-toggle {
+  box-shadow: none;
+  height: 55px;
+  line-height: 45px;
+  max-width: -webkit-fill-available;
+  z-index: 0;
+}
+.sidebar_location_filter .bootstrap-select > .dropdown-toggle,
+.report_widget .bootstrap-select > .dropdown-toggle {
+  background-color: #fff;
+  border: 1px solid #eaeaea;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 400;
+  height: 45px;
+  line-height: 30px;
+  max-width: 210px;
+  margin-bottom: 10px;
+  padding-left: 15px;
+  width: 100%;
+}
